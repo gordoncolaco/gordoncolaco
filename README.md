@@ -3,7 +3,7 @@
 <!--
 **gordoncolaco/gordoncolaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- Have just been active on Github even though had a account for more than 2 years
+Have just been active on Github even though had a account for more than 2 years
 
 - ⚡ Builds: PHP MVC Framework 
 - ⚡ Builds: PowerBI Custom Visuals Gauges with SVG images
